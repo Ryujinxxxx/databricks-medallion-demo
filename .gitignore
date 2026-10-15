@@ -218,3 +218,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Databricks
+.databricks/
+
+# Data files (dummy or real: keep data out of Git)
+*.csv
+*.xlsx
+*.parquet
+
+# Secrets
+.env
+*.pem
+*.key
