@@ -66,9 +66,8 @@ Gold tables are created with `CREATE OR REPLACE TABLE ... AS SELECT`, so they ca
 **Page 2: Textbook Sales.** KPI counters (total sales, units, orders, average order value), monthly sales, sales by category, top 5 titles and sales by grade.
 
 <!-- Add your screenshots to docs/ and update these paths -->
-![Student and teacher overview](docs/Student and teacher overview.jpg)
-![Textbook sales](docs/Textbook sales.jpg)
-
+![Student and teacher overview](docs/Student%20and%20teacher%20overview.jpg)
+![Textbook sales](docs/Textbook%20sales.jpg)
 ## Tech stack
 
 - **Platform:** Databricks Free Edition (serverless compute), Unity Catalog (schema and volume), Delta tables
