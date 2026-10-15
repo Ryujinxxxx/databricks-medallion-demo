@@ -66,8 +66,8 @@ Gold tables are created with `CREATE OR REPLACE TABLE ... AS SELECT`, so they ca
 **Page 2: Textbook Sales.** KPI counters (total sales, units, orders, average order value), monthly sales, sales by category, top 5 titles and sales by grade.
 
 <!-- Add your screenshots to docs/ and update these paths -->
-![Student and teacher overview](docs/dashboard_overview.png)
-![Textbook sales](docs/dashboard_sales.png)
+![Student and teacher overview](docs/Student and teacher overview.jpg)
+![Textbook sales](docs/Textbook sales.jpg)
 
 ## Tech stack
 
