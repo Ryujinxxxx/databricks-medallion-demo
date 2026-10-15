@@ -61,14 +61,14 @@ The notebook prints how many rows each step removed, so every rule has a visible
 
 Gold tables are created with `CREATE OR REPLACE TABLE ... AS SELECT`, so they can be rebuilt at any time. The dashboard reads **only** Gold tables. No cleaning or heavy logic happens in the visuals.
 
+**Page 1: Student & Teacher Overview.** KPI counters (students, teachers, student-teacher ratio, new enrolments), students by grade, gender split, enrolment trend, teachers by department and a class summary table.
+
 <!-- Add your screenshots to docs/ and update these paths -->
 ![Student and teacher overview](docs/dashboard_overview.jpg)
 
-**Page 1: Student & Teacher Overview.** KPI counters (students, teachers, student-teacher ratio, new enrolments), students by grade, gender split, enrolment trend, teachers by department and a class summary table.
+**Page 2: Textbook Sales.** KPI counters (total sales, units, orders, average order value), monthly sales, sales by category, top 5 titles and sales by grade.
 
 ![Textbook sales](docs/dashboard_sales.jpg)
-
-**Page 2: Textbook Sales.** KPI counters (total sales, units, orders, average order value), monthly sales, sales by category, top 5 titles and sales by grade.
 
 ## Tech stack
 
